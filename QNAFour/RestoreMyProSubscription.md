@@ -11,7 +11,7 @@ Make sure you use the same Apple ID you used to purchase the subscription. Other
 
 ### Open App and tap ‘Restore’ on SideMenu : 
    Open App and tap ‘Restore’ on SideMenu :
-    1.Tap on the three dash menu on home screen top left side.'\t'
+    1.Tap on the three dash menu on home screen top left side.
     2.Tap ‘Restore’
     3. Your previous subscription will be automatically restored
 
