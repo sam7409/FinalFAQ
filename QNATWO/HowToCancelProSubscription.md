@@ -3,7 +3,7 @@ title: How to cancel subscription?
 tags:  How to cancel subscription?
 ---
 
-#How to cancel subscription?
+# How to cancel subscription?
 
 If you’re dissatisfied with our product, let us first apologize for not meeting your expectations.
 We can’t perform the cancellation on your behalf as it’s Apple that manages your subscriptions and payments itself.we recommend you to refer this Apple official guide on How To Cancel Subcription plan - Apple
