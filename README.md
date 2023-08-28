@@ -47,6 +47,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://sam7409.github.io/FinalFAQ/404) (SupportDocs Integrated File) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/FinalFAQ/404.md))
+- [How to cancel subscription?](https://sam7409.github.io/FinalFAQ/QNATWO/HowToCancelProSubscription) (How to cancel subscription?) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/QNATWO/HowToCancelProSubscription.md))
 - [How to switch subscription plan ?](https://sam7409.github.io/FinalFAQ/QNAONE/HowToChangeSubscription) (How to switch subscription plan ?) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/QNAONE/HowToChangeSubscription.md))
 
 
