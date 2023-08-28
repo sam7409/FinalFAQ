@@ -48,7 +48,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 ## Table of Contents
 - [404 Page](https://sam7409.github.io/FinalFAQ/404) (SupportDocs Integrated File) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/FinalFAQ/404.md))
 - [Can I access my subscription from another device?](https://sam7409.github.io/FinalFAQ/QNAFive/AccessSubscriptionFromOtherDevice) (Can I access my subscription from another device?) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/QNAFive/AccessSubscriptionFromOtherDevice.md))
-- [Can I transfer my subscription to another Apple ID?](https://sam7409.github.io/FinalFAQ/TransferSubscriptionToAnotherAppleID) (Can I transfer my subscription to another Apple ID?) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/FinalFAQ/TransferSubscriptionToAnotherAppleID.md))
 - [How can I restore my subscription?](https://sam7409.github.io/FinalFAQ/QNAFour/RestoreMyProSubscription) (How can I restore my subscription?) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/QNAFour/RestoreMyProSubscription.md))
 - [How to cancel subscription?](https://sam7409.github.io/FinalFAQ/QNATWO/HowToCancelProSubscription) (How to cancel subscription?) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/QNATWO/HowToCancelProSubscription.md))
 - [How to get refund?](https://sam7409.github.io/FinalFAQ/QNAThree/HowToGetRefund) (How to get refund?) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/QNAThree/HowToGetRefund.md))
