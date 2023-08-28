@@ -59,6 +59,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [How to eat tacos](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
 - [How to make spaghetti](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
 - [How to prepare ramen](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
+- [Neeshu Kumar](https://sam7409.github.io/FinalFAQ/Sample-Template/Profile) (Profile) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Template/Profile.md))
 - [Peach smoothie](https://sam7409.github.io/FinalFAQ/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://sam7409.github.io/FinalFAQ/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://sam7409.github.io/FinalFAQ/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Smoothies/RedBerries.md))
