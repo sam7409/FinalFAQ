@@ -47,22 +47,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://sam7409.github.io/FinalFAQ/404) (SupportDocs Integrated File) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/FinalFAQ/404.md))
-- [Apple smoothie](https://sam7409.github.io/FinalFAQ/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Blueberry smoothie](https://sam7409.github.io/FinalFAQ/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Smoothies/Blueberry.md))
-- [Buy blue boba](https://sam7409.github.io/FinalFAQ/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
-- [Buy cream boba](https://sam7409.github.io/FinalFAQ/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
-- [Buy orange boba](https://sam7409.github.io/FinalFAQ/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
-- [How to cook pizza](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
-- [How to eat burritos](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
-- [How to eat grilled cheese](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
-- [How to eat nachos](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
-- [How to eat tacos](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
-- [How to make spaghetti](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
-- [How to prepare ramen](https://sam7409.github.io/FinalFAQ/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [Neeshu Kumar](https://sam7409.github.io/FinalFAQ/Sample-Template/Profile) (Profile) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Template/Profile.md))
-- [Peach smoothie](https://sam7409.github.io/FinalFAQ/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Smoothies/Peach.md))
-- [Plum smoothie](https://sam7409.github.io/FinalFAQ/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Red berry smoothie](https://sam7409.github.io/FinalFAQ/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/sam7409/FinalFAQ/edit/DataSource/Sample-Smoothies/RedBerries.md))
 
 
 ## Notes
